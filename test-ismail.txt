@@ -1,3 +1,4 @@
 ||www.googletagservices.com^
 ||www-googletagmanager.l.google.com^
 ||www-google-analytics.l.google.com^
+||www.analytic-google.com^
